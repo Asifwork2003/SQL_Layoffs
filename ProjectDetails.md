@@ -12,4 +12,4 @@ There are 2 parts of this project
 >  1. Used MAX function to find out maximum amount of layoffs and SUM function for total Layoffs.
 >  2. Analysed layoff trends according to Company, Year, Industry, Location using ORDER BY and GROUP BY functions.
 >  3. Used Rolling Total for better evaluation of Layoffs according to different months in several years.
->  4. DENSE RANK fucntion was used to evaluate companies by their respective rankings for amount of layoffs done in different years
+>  4. DENSE RANK function was used to evaluate companies by their respective rankings for amount of layoffs done in different years.
