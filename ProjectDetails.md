@@ -13,3 +13,6 @@ There are 2 parts of this project
 >  2. Analysed layoff trends according to Company, Year, Industry, Location using ORDER BY and GROUP BY functions.
 >  3. Used Rolling Total for better evaluation of Layoffs according to different months in several years.
 >  4. DENSE RANK function was used to evaluate companies by their respective rankings for amount of layoffs done in different years.
+
+## Credits
+I have completed this project with the help of a tutorial on youtube : https://www.youtube.com/watch?v=QYd-RtK58VQ 
